@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="exaamencitooo.MainPage">
+
+    <StackLayout>
+        <Label Text="Calculadora Para el examen"
+               FontSize="24"
+               HorizontalOptions="Center" />
+
+        <Entry x:Name="Numero1" Placeholder="Nummero 1" Keyboard="Numeric" />
+        <Entry x:Name="Numero2" Placeholder="Nummero 2" Keyboard="Numeric" />
+
+        <Button Text="Sumar" Clicked="SumaClick" />
+        <Button Text="Multiplicar" Clicked="MultiClick" />
+        <Button Text="Dividir" Clicked="DivClick" />
+
+        <Label x:Name="Resultado" FontSize="20" HorizontalOptions="Center" />
+    </StackLayout>
+
+</ContentPage>

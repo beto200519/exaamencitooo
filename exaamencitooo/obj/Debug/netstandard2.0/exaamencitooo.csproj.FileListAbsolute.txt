@@ -1,0 +1,15 @@
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\bin\Debug\netstandard2.0\exaamencitooo.deps.json
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\bin\Debug\netstandard2.0\exaamencitooo.dll
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\bin\Debug\netstandard2.0\exaamencitooo.pdb
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.csproj.AssemblyReference.cache
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.AssemblyInfoInputs.cache
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.AssemblyInfo.cs
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.csproj.CoreCompileInputs.cache
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.dll
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\refint\exaamencitooo.dll
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\exaamencitooo.pdb
+C:\Users\cd10\Desktop\Aimara\exaamencitooo\exaamencitooo\obj\Debug\netstandard2.0\ref\exaamencitooo.dll
